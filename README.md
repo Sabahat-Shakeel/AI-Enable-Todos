@@ -17,11 +17,11 @@ AI-Enable-Todos is an advanced AI-powered application for managing todo lists. I
 - Support for advanced AI agents to provide contextual suggestions and automation
 
 ### Installation
-1. Clone the repository: git clone https://github.com/yourusername/AI-Enable-Todos.git
+1. Clone the repository: git clone `https://github.com/Sabahat-Shakeel/AI-Enable-Todos.git`
 2. Install dependencies: npm install
-3. Frontend: Run npm run dev in the root directory for local development (available at http://localhost:3000)
-4. Backend: Run uvicorn app:app --reload in the backend directory (available at http://localhost:8000)
-5. Ensure the frontend's .env.local points to the backend URL (e.g., NEXT_PUBLIC_API_URL=http://localhost:8000)
+3. Frontend: Run npm run dev in the root directory for local development (available at `http://localhost:3000`)
+4. Backend: Run uvicorn app:app --reload in the backend directory (available at `http://localhost:8000`)
+5. Ensure the frontend's .env.local points to the backend URL (e.g., `NEXT_PUBLIC_API_URL=http://localhost:8000`)
 6. For production build: npm run build in frontend
 
 ---------------------------------------------------------------------------------------------------------------
